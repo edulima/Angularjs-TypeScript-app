@@ -10,7 +10,7 @@ module app.domain {
 		price: number;
 		description: string;
 		imageUrl: string;
-		//calculateDiscount(percent: number): number;	
+		calculateDiscount(percent: number): number;	
 	}
 	
 	export class Product implements IProduct{

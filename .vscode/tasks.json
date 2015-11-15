@@ -27,6 +27,7 @@
 		"app/products/product.ts",
 		"app/common/services/dataAccessService.ts",
 		"app/common/services/productResourceMock.ts",
+		"app/products/productDetailCtrl.ts",
 		"app/common/services/common.services.ts"
 	],
 
